@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Arama" />
+
+    <item
+        android:id="@+id/action_upcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="Çok Yakında" />
+    <item
+        android:id="@+id/action_downloads"
+        android:icon="@drawable/ic_downloads"
+        android:title="İndirilenler" />
+
+
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/ic_more"
+        android:title="Daha Fazlası" />
+</menu>
